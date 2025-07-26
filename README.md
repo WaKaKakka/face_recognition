@@ -1,8 +1,7 @@
 # face_recognition
-A project for face recognition
-##项目结构
-insightface_project/  
-
+A project for face recognition<br>
+## 项目结构<br>
+insightface_project/<br>
 ├── data/<br>
 │   ├── 张三/<br>
 │   │   ├── 1.jpg<br>
@@ -14,3 +13,6 @@ insightface_project/
 ├── train.py<br>
 ├── run.py<br>
 ├── simhei.ttf<br>
+## 环境要求
+使用python3.9<br>
+  pip install insightface opencv-python pillow scikit-learn
